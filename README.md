@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arp21763
-- 👀 I’m interested in Python and R Coding
+- 👀 I’m interested in Python,R and Data Science
 - 🌱 I’m currently learning New Tech
 - 💞️ I’m looking to collaborate on any thing with coding with new tech world
 - 📫 How to reach me ... ping me 👋
